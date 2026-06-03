@@ -1,0 +1,9 @@
+Today, <person_name> went to the <place> with a <adjective> <noun>.
+
+Suddenly, a <animal> appeared and started to <verb>.
+
+"That's <adjective>!" shouted <person_name>.
+
+To escape, they threw a <noun> at the <animal> and ran for <number> minutes.
+
+In the end, everyone celebrated by eating <food> and listening to <adjective> music.
