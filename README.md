@@ -16,5 +16,5 @@ The projects range from **basic** to **intermediate** level and are created to s
 These projects are mainly for learning and practice, so the code may not always be optimized. The focus is on understanding concepts and improving coding skills.
 
 ---
-
+Happy LIfe! 😉
 Happy Coding! 🚀
