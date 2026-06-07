@@ -10,7 +10,7 @@ def decode_password(encoded_password):
     
 
 def view():
-    with open("Password Manager (medium)/password.txt", "r") as f:
+    with open("Password Manager/password.txt", "r") as f:
         for line in f.readlines():
             data = line.rstrip()
             user, pwd = data.split("|")
@@ -21,7 +21,7 @@ def add():
     name = input("Account name or number: ")
     password = input("Password: ")
 
-    with open("Password Manager (medium)/password.txt", "a") as f:
+    with open("Password Manager/password.txt", "a") as f:
         f.write(name + "|" + encode_password(password) + "\n")
 
 

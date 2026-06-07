@@ -18,7 +18,7 @@ def alarm(seconds):
 
         print(f"{CLEAR_AND_RETURN}Alarm will ring in: {minutes_left:02d}:{seconds_left:02d}")
 
-    winsound.PlaySound("Alarm Clock (easy)/alarm.wav", winsound.SND_FILENAME)
+    winsound.PlaySound("Alarm Clock/alarm.wav", winsound.SND_FILENAME)
 
 while True:
     try:
