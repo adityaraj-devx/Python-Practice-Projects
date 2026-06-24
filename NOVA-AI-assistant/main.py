@@ -35,7 +35,7 @@ def main():
 
         try:
             response = model.invoke(messages)
-            print(f"\nAssistant: {response.content}")
+            print(f"\nNOVA: {response.content}")
 
         except Exception as e:
             print(f"\nError: {e}")
