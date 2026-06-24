@@ -22,7 +22,7 @@ NOVA is a command-line AI assistant built using Python, LangChain, and Groq. It 
 ```bash
 git clone https://github.com/adityaraj-devx/Python-Practice-Projects.git
 cd Python-Practice-Projects
-cd "NOVA AI-assistant"
+cd "NOVA-AI-assistant"
 ```
 
 ### Install Dependencies
